@@ -1,0 +1,5 @@
+Unsullied Soldier:10:3:300:70
+Targeryens' Archer:11:3:400:50
+Targeryens' Magician:7:3:120:50
+Denarys Targeryan:15:20:700:300
+Dragon:200:25:2000:1400

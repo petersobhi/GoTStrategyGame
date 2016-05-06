@@ -1,0 +1,5 @@
+Northern Soldier:15:3:350:100
+Northern Archer:13:2:250:50
+Northern Magician:5:2:110:200
+John Snow:80:7:600:500
+Wolf:25:5:450:250

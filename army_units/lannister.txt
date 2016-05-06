@@ -1,0 +1,5 @@
+King's Guards:20:4:400:150
+Lannisters' Archer:12:2:200:50
+Lannisters' Magician:7:2:100:200
+Taywan Lannister:70:6:550:450
+Lion:30:5:550:300
